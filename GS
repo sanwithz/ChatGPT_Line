@@ -1,6 +1,6 @@
 // Libarie : 1KsjhQa6oymhUiACWsAlFTG_XoN8Pnz4px2ekABPjO4tSMX6xRSQMBicy
 
-const SECRET_KEY = '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';
+const SECRET_KEY = 'XXXXXXXXXXXX';
 const MAX_TOKENS = 400;
 
 function AI(prompt, temperature = 0.4, model = "text-davinci-003") {
